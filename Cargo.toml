@@ -6,4 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-opencc-rs = "0.2.0"
+opencc-rs = "0.3.0"
+regex = "1.7.1"
